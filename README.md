@@ -1,5 +1,12 @@
 # Hi, I'm Pradeep Rathod 👋  
-🎨 Graphic Design Learner | 💻 AI & Data Science Engineer | 🚀 Creative + Tech Enthusiast  
+🎨 Graphic Design Learner | 💻 AI & Data Science Engineer | 🚀 Creative + Tech Enthusiast 
+
+---
+
+## 📖 About Me  
+💡 I'm an AI & Data Science Engineer exploring the creative side of tech through Graphic Design.  
+🎯 **Goal:** Merge creativity with AI to build visually stunning, intelligent solutions.  
+⚡ Fun fact: I love combining aesthetics with problem-solving. 
 
 ---
 
@@ -21,3 +28,7 @@
 
 ## 🔗 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-rathod-b61a95260/)
+
+---
+
+> 💬 *"Creativity is intelligence having fun." – Albert Einstein*
