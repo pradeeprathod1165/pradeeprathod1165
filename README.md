@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats  
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pradeeprathod1165&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=pradeeprathod1165&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=radical)  
 
 ---
