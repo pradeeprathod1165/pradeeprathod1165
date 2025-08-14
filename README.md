@@ -1,5 +1,5 @@
 # Hi, I'm Pradeep Rathod 👋  
-🎨 Graphic Design Learner | 💻 AI & Data Science Engineer | 🚀 Creative + Tech Enthusiast 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Graphic+Design+Learner;AI+%26+Data+Science+Engineer;Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -30,10 +30,6 @@
 ![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-%23FF4088.svg?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-%234285F4.svg?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23F0DB4F.svg?style=for-the-badge)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Graphic+Design+Learner;AI+%26+Data+Science+Engineer;Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
