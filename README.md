@@ -33,6 +33,10 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Graphic+Design+Learner;AI+%26+Data+Science+Engineer;Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
+
+---
+
 ## 🔗 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-rathod-b61a95260/)
 
