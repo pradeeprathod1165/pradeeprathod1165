@@ -1,5 +1,5 @@
 # Hi, I'm Pradeep Rathod 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Graphic+Design+Learner;AI+%26+Data+Science+Engineer;Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=550&lines=🎨+Graphic+Design+Learner;🤖+AI+%26+Data+Science+Engineer;🚀+Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
