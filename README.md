@@ -26,6 +26,13 @@
 
 ---
 
+## 📚 Learning & Exploring
+![UI/UX Design](https://img.shields.io/badge/UI/UX%20Design-%23FF4088.svg?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%234285F4.svg?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23F0DB4F.svg?style=for-the-badge)
+
+---
+
 ## 🔗 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-rathod-b61a95260/)
 
