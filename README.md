@@ -51,6 +51,6 @@
 
 ---
 
-<p align="center">
-  💬 *"Creativity is intelligence having fun."* – Albert Einstein  
+<p align="left">
+  💬 "Creativity is intelligence having fun." – Albert Einstein  
 </p>
