@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=🎨+Graphic+Design+Learner;🤖+AI+%26+Data+Science+Engineer;🚀+Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
 
+![Profile views](https://komarev.com/ghpvc/?username=pradeeprathod1165&label=Profile%20Views&color=ff69b4&style=flat)
+
 ---
 
 ## 📖 About Me  
@@ -23,22 +25,16 @@
 ---
 
 ## 🛠 Skills & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+- 🎨 **Design:** Canva | Photoshop | Figma  
+- 💻 **Coding:** Python | JavaScript  
+- 📊 **Exploring:** UI/UX Design | Generative AI | Data Visualization  
 
 ---
 
-## 📚 Currently Exploring  
-<p>
-  <img src="https://img.shields.io/badge/UI/UX%20Design-%23FF4088.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-%234285F4.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-%23F0DB4F.svg?style=for-the-badge"/>
-</p>
+## 🚧 Current Projects  
+- 🎶 Building a **Music + Gamified Social App**  
+- 📊 Working on a **Sales Data Warehouse with OLAP**  
+- 🤖 Exploring **AI-powered WhatsApp Agent Automation**  
 
 ---
 
@@ -51,6 +47,16 @@
 
 ---
 
-<p align="left">
-  💬 "Creativity is intelligence having fun." – Albert Einstein  
-</p>
+## 🐍 Contributions Snake  
+![snake gif](https://github.com/pradeeprathod1165/pradeeprathod1165/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💡 Fun Section  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+---
+
+> 💬 *"Creativity is intelligence having fun."* – Albert Einstein  
+
+🚀 I’m always open to collaborating on **AI × Design projects**!  
