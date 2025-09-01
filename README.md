@@ -45,11 +45,6 @@
 
 ---
 
-## 💡 Fun Section  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
----
-
 > 💬 *"Creativity is intelligence having fun."* – Albert Einstein  
 
-🚀 I’m always open to collaborating on **AI × Design projects**!  
+🚀 I’m always open to collaborating on **Design projects**!  
