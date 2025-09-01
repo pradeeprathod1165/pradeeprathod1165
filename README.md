@@ -22,14 +22,6 @@
 
 ---
 
-## 🖼️ Posters
-<p align="center">
-  <img src="Graphics Journey/coffee ad with tagline.png" width="300"/>
-  <img src="Graphics Journey/Poster design/poster design for cafe final version.png" width="300"/>
-</p>
-
----
-
 ## 🛠 Skills & Tools  
 - 🎨 **Design:** Canva | Photoshop | Figma  
 - 💻 **Coding:** Python | JavaScript  
