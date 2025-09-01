@@ -29,13 +29,6 @@
 
 ---
 
-## 🚧 Current Projects  
-- 🎶 Building a **Music + Gamified Social App**  
-- 📊 Working on a **Sales Data Warehouse with OLAP**  
-- 🤖 Exploring **AI-powered WhatsApp Agent Automation**  
-
----
-
 ## 🔗 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/pradeep-rathod-b61a95260/">
