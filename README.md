@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=🎨+Graphic+Design+Learner;🤖+AI+%26+Data+Science+Engineer;🚀+Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=pradeeprathod1165&label=Profile%20Views&color=ff69b4&style=flat)
-
 ---
 
 ## 📖 About Me  
@@ -44,11 +42,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🐍 Contributions Snake  
-![snake gif](https://github.com/pradeeprathod1165/pradeeprathod1165/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
