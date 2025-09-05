@@ -40,6 +40,6 @@
 
 ---
 
-> 💬 *"Creativity is intelligence having fun."* – Albert Einstein  
+> 💬 *"Creativity is intelligence having fun."* – Albert Einstein
 
 🚀 I’m always open to collaborating on **Design projects**!  
