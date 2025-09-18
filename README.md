@@ -1,7 +1,7 @@
 # Hi, I'm Pradeep Rathod 👋  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=600&lines=🎨+Graphic+Design+Learner;🤖+AI+%26+Data+Science+Engineer;🚀+Creative+%2B+Tech+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=30&section=footer"/>
 
 ## 📖 About Me  
 💡 AI & Data Science Engineer exploring creativity through Graphic Design.  
