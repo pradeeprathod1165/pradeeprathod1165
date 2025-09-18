@@ -43,3 +43,7 @@
 > 💬 *"Creativity is intelligence having fun."* – Albert Einstein
 
 🚀 I’m always open to collaborating on **Design projects**!  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
