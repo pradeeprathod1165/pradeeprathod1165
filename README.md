@@ -38,7 +38,7 @@
 </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 > 💬 *"Creativity is intelligence having fun."* – Albert Einstein
 
