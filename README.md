@@ -23,7 +23,7 @@
 
 ## 🛠 Skills & Tools  
 - 🎨 **Design:** Canva | Photoshop | Figma  
-- 💻 **Coding:** Python | JavaScript  
+- 💻 **Coding:** Python | JavaScript 
 - 📊 **Exploring:** UI/UX Design | Generative AI | Data Visualization  
 
 ---
