@@ -40,10 +40,6 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pradeeprathod1165&style=flat-square&color=F75C7E)
-
----
-
 > 💬 *"Creativity is intelligence having fun."* – Albert Einstein
 
 🚀 I’m always open to collaborating on **Design projects**!  
