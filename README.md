@@ -40,8 +40,12 @@
 
 ---
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pradeeprathod1165&theme=radical)
+<a href="https://www.buymeacoffee.com/pradeep" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FD0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://www.buymeacoffee.com/pradeep" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FD0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
 ---
 
