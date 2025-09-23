@@ -40,6 +40,11 @@
 
 ---
 
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pradeeprathod1165&theme=radical)
+
+---
+
 > 💬 *"Creativity is intelligence having fun."* – Albert Einstein
 
 🚀 I’m always open to collaborating on **Design projects**!  
