@@ -43,6 +43,3 @@
 > 💬 *"Creativity is intelligence having fun."* – Albert Einstein
 
 🚀 I’m always open to collaborating on **Design projects**!  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeeprathod1165&theme=radical)
-
