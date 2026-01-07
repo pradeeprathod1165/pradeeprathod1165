@@ -12,15 +12,14 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pradeeprathod1165&theme=radical" height="160px"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pradeeprathod1165&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=radical)
+
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=radical" height="140px"/>
-</p>
-
-
 
 
 ---
