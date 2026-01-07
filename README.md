@@ -11,9 +11,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Repos](https://img.shields.io/badge/Repos-Active-brightgreen)
-![Stars](https://img.shields.io/badge/Stars-Growing-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=pradeeprathod1165&color=red)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=radical" height="160px"/> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pradeeprathod1165&theme=radical" height="160px"/> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=radical" height="140px"/>
 
 ---
 
