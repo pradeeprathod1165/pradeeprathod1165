@@ -11,16 +11,9 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pradeeprathod1165&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=radical)
-
-</p>
-
+![Repos](https://img.shields.io/badge/Repos-Active-brightgreen)
+![Stars](https://img.shields.io/badge/Stars-Growing-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=pradeeprathod1165&color=red)
 
 ---
 
