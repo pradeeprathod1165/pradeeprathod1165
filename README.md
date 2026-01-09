@@ -5,7 +5,6 @@
 
 ## 📖 About Me  
 💡 AI & Data Science Engineer exploring creativity through Graphic Design. 
-
 🎯 **Goal:** Merge **Creativity × AI** to build intelligent and visually stunning solutions.  
 ⚡ Fun fact: I love combining aesthetics with problem-solving.  
 
