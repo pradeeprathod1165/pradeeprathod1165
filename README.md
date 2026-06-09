@@ -21,14 +21,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeeprathod1165&theme=tokyonight" />
   <img height="170" src="https://streak-stats.demolab.com?user=pradeeprathod1165&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeeprathod1165&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ### ⚙️ Tech Stack
