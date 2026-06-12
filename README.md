@@ -15,7 +15,7 @@
 🤖 AI & Data Science Engineer
 ⚡ Learning by Building Real Projects
 ```
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
 
 ### 📊 GitHub Stats
