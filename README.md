@@ -9,9 +9,7 @@
 ### 👨‍💻 About Me
 
 ```text
-🐧 Exploring Linux & System Administration
-🚀 Beginning my DevOps Journey
-🤖 AI & Data Science Engineer
+🐧 Linux and Devops Engineer
 ⚡ Learning by Building Real Projects
 ```
 
