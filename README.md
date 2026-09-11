@@ -1,79 +1,59 @@
-<div align="center">
-  <!-- Hacker Cat Mascot -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FjMzI1Y2M0YmQyN2Q5MWNhMWZmODU3ZTU0YzY1Y2M5YzY5YmIyNyZlcD12MV9pbnRlcm5hbF9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkVDsPRU1/giphy.gif" width="100" alt="Hacker Cat" />
-  <br><br>
-  
-  <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🐧+Linux+%26+DevOps+Engineer;📱+Building+Continuous-Listening+Apps;🤖+AI+%26+Data+Science+Enthusiast;⚡+Learning+by+Building+Real+Projects" alt="Typing SVG" />
-  
-  <br><br>
+# Hi, I'm Pradeep Rathod 👋 
 
-  <!-- Social Badges & Profile Views -->
-  <a href="https://www.linkedin.com/in/pradeep-rathod-b61a95260/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Linux+System+Administration;DevOps+Engineering;AI+and+Data+Science;Building+Practical+Projects](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Linux+System+Administration;DevOps+Engineering;AI+and+Data+Science;Building+Practical+Projects)" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+<pre><code>🐧 Linux and DevOps Engineer
+⚡ Learning by Building Real Projects
+</code></pre>
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td width="60%">
+      <img src="[https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=tokyonight&hide_border=true)" alt="GitHub Stats" width="100%" />
+      <br><br>
+      <img src="[https://github-readme-streak-stats.herokuapp.com/?user=pradeeprathod1165&theme=tokyonight&hide_border=true&v=2](https://github-readme-streak-stats.herokuapp.com/?user=pradeeprathod1165&theme=tokyonight&hide_border=true&v=2)" alt="GitHub Streak" width="100%" />
+      <br><br>
+      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" width="100%" />
+    </td>
+    <td width="40%" align="center">
+      <img alt="Coding" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="[https://skillicons.dev/icons?i=linux,bash,git,github,python,javascript,vscode,flutter,dart](https://skillicons.dev/icons?i=linux,bash,git,github,python,javascript,vscode,flutter,dart)" alt="Tech Stack" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/pradeep-rathod-b61a95260/](https://www.linkedin.com/in/pradeep-rathod-b61a95260/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
   </a>
   <a href="mailto:pradeeprathod71119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" />
   </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=pradeeprathod1165&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
-</div>
-
-<br>
+</p>
 
 ---
 
-### 👨‍💻 Who Am I?
-
-<pre><code>pradeep@linux:~$ cat whoami.txt</code></pre>
-
-- 🔭 I’m currently building real-world projects in **Cloud Infrastructure, DevOps**, and **Mobile Voice Applications**.
-- 🌱 Diving deeper into **AI, Data Science, and Modern CI/CD pipelines**.
-- 🐧 Proficient in **Linux System Administration, Bash scripting, and Automation**.
-- 💬 Ask me about **Linux setups and open-source tech**.
-- ⚡ **Motto:** *Learning, Building, Improving.*
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,javascript,vscode,flutter,dart,ubuntu&perline=10" alt="Tech Stack" />
-  </a>
-</div>
-
-<br>
-
----
-
-### 📊 GitHub Analytics (2026 Layout)
-
-<!-- 2026 HTML Table Grid for ultra-reliable scaling -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Upgraded to Demolab for reliability -->
-        <img src="https://streak-stats.demolab.com/?user=pradeeprathod1165&theme=tokyonight&hide_border=true&background=1A1B26&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  
-  <!-- Modern 2026 Trend: Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeeprathod1165&theme=tokyo-night&bg_color=1A1B26&hide_border=true&color=36BCF7" alt="Activity Graph" width="90%" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=36BCF7" alt="Top Languages" width="50%" />
-</div>
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=footer" width="100%" />
-</div>
+<p align="center">
+  <i>"Learning, Building, Improving."</i>
+</p>
