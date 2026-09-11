@@ -18,13 +18,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeprathod1165&theme=tokyonight&hide_border=true&v=2" />
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=pradeeprathod1165&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Pradeep's GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pradeeprathod1165&theme=tokyonight&hide_border=true"
+    alt="Pradeep's GitHub streak"
+  />
 </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=tokyonight&hide_border=true" />
-</p>          
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pradeeprathod1165&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Pradeep's top languages"
+  />
+</p>
+      
 
 ---
 
