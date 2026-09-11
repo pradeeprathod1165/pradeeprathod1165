@@ -5,7 +5,6 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
 
@@ -13,7 +12,13 @@
 🐧 Linux and Devops Engineer
 ⚡ Learning by Building Real Projects
 ```
+</td>
 
+<td width="40%" align="center" valign="top">
+
+<img align="center" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+</td> </tr> </table>
 ---
 
 ### 📊 GitHub Stats
