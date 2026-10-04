@@ -25,7 +25,7 @@
 
 ## 🚀 Live Websites
 
-* **1. ZeroConvert** – A privacy-focused online tool for lightning-fast, client-side file conversions.  
+**1. ZeroConvert** – A privacy-focused online tool for lightning-fast, client-side file conversions.  
   👉 **Live Link:** https://getzeroconvert.com
 
 ---
