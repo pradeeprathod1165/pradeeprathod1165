@@ -24,20 +24,8 @@
 
 ## 🚀 Live Websites
 
-<table>
-  <tr>
-    <td>
-      <h3>🔄 ZeroConvert — Live File Converter</h3>
-      <p>A production-ready, client-side web application built to convert files (PDF, JPG, MP4) instantly and securely without server uploads.</p>
-      <a href="https://getzeroconvert.com">
-      <br><br>
-      <ul>
-        <li>⚡ <b>Client-Side Processing:</b> Handles file streams 100% locally in the browser.</li>
-        <li>🛡️ <b>Privacy-First:</b> Zero data ever leaves the user's machine.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **1. [ZeroConvert](https://getzeroconvert.com)** – A free, fast, and 100% private online file converter that processes PDFs, images, and videos entirely in your browser.
+
 
 ### 📊 GitHub Stats
 
