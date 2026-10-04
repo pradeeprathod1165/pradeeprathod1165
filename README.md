@@ -24,7 +24,8 @@
 
 ## 🚀 Live Websites
 
-* **1. [ZeroConvert](https://getzeroconvert.com)** – A free, fast, and 100% private online file converter that processes PDFs, images, and videos entirely in your browser.
+* **1. ZeroConvert** – A privacy-focused online tool for lightning-fast, client-side file conversions.  
+  👉 **Live Link:** https://getzeroconvert.com
 
 
 ### 📊 GitHub Stats
