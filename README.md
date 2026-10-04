@@ -20,6 +20,29 @@
 
 </td> </tr> </table>
 ---
+<!-- Add this to your Profile README -->
+
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td>
+      <h3>🔄 ZeroConvert — Live File Converter</h3>
+      <p>A production-ready, client-side web application built to convert files (PDF, JPG, MP4) instantly and securely without server uploads.</p>
+      <a href="https://getzeroconvert.com">
+        <img src="https://shields.io🟢_Online_%26_Working-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App" />
+      </a>
+      <a href="https://github.com">
+        <img src="https://shields.io" alt="Source Code" />
+      </a>
+      <br><br>
+      <ul>
+        <li>⚡ <b>Client-Side Processing:</b> Handles file streams 100% locally in the browser.</li>
+        <li>🛡️ <b>Privacy-First:</b> Zero data ever leaves the user's machine.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
